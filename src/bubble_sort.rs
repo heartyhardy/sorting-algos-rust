@@ -23,5 +23,5 @@ pub fn run(){
     let mut nums: [i32;5] = [4, 5, 2, 3, 1];
 
     bubblesort(&mut nums);
-    println!("Sorted with BubbleSort: {:?}", nums);
+    println!("BubbleSort: {:?}", nums);
 }
